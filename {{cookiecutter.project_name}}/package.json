@@ -1,5 +1,5 @@
 {
-  "name": "node-ddd-boilerplate",
+  "name": "{{cookiecutter.project_name}}",
   "version": "0.0.0-development",
   "description": "RESTful api Domain Driven Design",
   "main": "index.js",
